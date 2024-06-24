@@ -15279,20 +15279,20 @@ texture = ExtResource("9_4ccio")
 
 [node name="BackgroundLayer1" type="Sprite2D" parent="."]
 show_behind_parent = true
-position = Vector2(95.5, -89)
-scale = Vector2(1.89688, 1)
+position = Vector2(95.5, -152.5)
+scale = Vector2(1.89688, 1.70556)
 texture = ExtResource("10_gbegh")
 
 [node name="BackgroundLayer2" type="Sprite2D" parent="."]
 show_behind_parent = true
-position = Vector2(698, -90)
-scale = Vector2(1.86875, 1)
+position = Vector2(698, -153)
+scale = Vector2(1.86875, 1.7)
 texture = ExtResource("10_gbegh")
 
 [node name="BackgroundLayer3" type="Sprite2D" parent="."]
 show_behind_parent = true
-position = Vector2(1248.5, -90)
-scale = Vector2(1.57187, 1)
+position = Vector2(1248.5, -153)
+scale = Vector2(1.57187, 1.7)
 texture = ExtResource("10_gbegh")
 
 [node name="BackgroundLayer4" type="Sprite2D" parent="."]
